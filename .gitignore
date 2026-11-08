@@ -1,0 +1,9 @@
+data/
+outputs/
+*.npz
+*.npy
+*.joblib
+*.csv
+*.pt
+__pycache__/
+*.pyc

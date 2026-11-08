@@ -1,0 +1,316 @@
+[
+  {
+    "file": "src/blend/score_blend_f3_20261102/run_f3.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data/reports",
+        "occurrences": 1
+      },
+      {
+        "from": "legacy data/report root",
+        "to": "data",
+        "occurrences": 1
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/blend/score_blend_f3_20261102/write_report.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data/reports",
+        "occurrences": 1
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 4
+      }
+    ]
+  },
+  {
+    "file": "src/blend/segment_probe_20261102/generate_probes.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data/reports",
+        "occurrences": 1
+      },
+      {
+        "from": "legacy data/report root",
+        "to": "data",
+        "occurrences": 3
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/blend/segment_probe_20261102/write_probe_report.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data/reports",
+        "occurrences": 1
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 2
+      }
+    ]
+  },
+  {
+    "file": "src/full_sites/run_full_sites.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data",
+        "occurrences": 2
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/full_sites/write_full_sites_report.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data/reports",
+        "occurrences": 1
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 5
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/step1_decomposition_20261102/run_step1_decomposition.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data",
+        "occurrences": 3
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/step1_decomposition_20261102/write_step1_report.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data/reports",
+        "occurrences": 1
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 2
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/c1_baseline_residual_20261102/run_c1_experiment.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data",
+        "occurrences": 3
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/c1_baseline_residual_20261102/write_c1_report.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data/reports",
+        "occurrences": 1
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/h6_window_stationarity_20261104/run_h6_experiment.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data",
+        "occurrences": 3
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/h6_window_stationarity_20261104/write_h6_report.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data/reports",
+        "occurrences": 1
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/step2_collapse_20261105/run_step2_experiment.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data",
+        "occurrences": 2
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/step2_collapse_20261105/write_step2_report.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data/reports",
+        "occurrences": 1
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/v6_baselines_20261105/run_v6_baselines.py",
+    "edits": [
+      {
+        "from": "legacy data/report root",
+        "to": "data/reports",
+        "occurrences": 1
+      },
+      {
+        "from": "legacy data/report root",
+        "to": "data",
+        "occurrences": 3
+      },
+      {
+        "from": "legacy project root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/v6_split_20261105/generate.py",
+    "edits": [
+      {
+        "change": "__file__ project root -> data/project"
+      }
+    ]
+  },
+  {
+    "file": "src/compat/src/kaggle_task.py",
+    "change": "Replace missing data import with verified constants N_MONTHS=12,N_FEATURES=136; replace all corresponding attribute references",
+    "before_sha256": "a71ab1b8d67bc82133155b338aebb27bd7bb6dd0f8b277fab3325c76943dc1da",
+    "after_sha256": "5554620d6a7054b23ae334c8a5592084b328813b8513cb2dc236068975c408bc"
+  },
+  {
+    "file": "src/experiments/c3_collapse_mixture_20261107/run_c3_experiment.py",
+    "edits": [
+      {
+        "from": "legacy machine-specific root",
+        "to": "data",
+        "occurrences": 2
+      },
+      {
+        "from": "legacy machine-specific root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/c3_collapse_mixture_20261107/write_c3_report.py",
+    "edits": [
+      {
+        "from": "legacy machine-specific root",
+        "to": "data/reports",
+        "occurrences": 2
+      },
+      {
+        "from": "legacy machine-specific root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/v6_c3_ssp_20261108/run_v6_c3_ssp.py",
+    "edits": [
+      {
+        "from": "legacy machine-specific root",
+        "to": "data",
+        "occurrences": 3
+      },
+      {
+        "from": "legacy machine-specific root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "file": "src/experiments/v6_c3_ssp_20261108/write_v6_report.py",
+    "edits": [
+      {
+        "from": "legacy machine-specific root",
+        "to": "data/reports",
+        "occurrences": 2
+      },
+      {
+        "from": "legacy machine-specific root",
+        "to": "data/project",
+        "occurrences": 1
+      }
+    ]
+  }
+]

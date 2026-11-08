@@ -1,0 +1,128 @@
+[
+  {
+    "file": "candidate_A2_y0restore_recipe143_cap35.csv",
+    "sha256": "5220e2f8cb74c0812b27f566a6d82e8c91cbc0160ce226b6c22bc771653fbaae",
+    "submission_id": 57859955,
+    "public_score": "0.127",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_B2_y0restore_nosigned_cap35.csv",
+    "sha256": "d23e0df2915e816d29355600bf49c1bdeb130ea14de7721dc8db4bbbd54c1e9a",
+    "submission_id": 57863058,
+    "public_score": "0.136",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_D1a_age20plus.csv",
+    "sha256": "4cce7e03daa07b5878cb01b289ccf019467273ae5d624bcc7400c45cda503371",
+    "submission_id": 57930398,
+    "public_score": "0.093",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_F2_score_blend_nosigned.csv",
+    "sha256": "43b2d88bf4d0ab27252c85fa27e82052b026c08016166bdb53f1ee903152dab1",
+    "submission_id": 57861338,
+    "public_score": "0.082",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_F3_score_blend_nosigned.csv",
+    "sha256": "3bd2f0d6fb84654739f4db8654fd4091002e98f1db8f937a326c9fb36bf41d2a",
+    "submission_id": 57891074,
+    "public_score": "0.077",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_G1_full_delta.csv",
+    "sha256": "a4c644c094f1fef19708a4529c2a229e60e7f92dca17ed764b36327a1f715d14",
+    "submission_id": 58007331,
+    "public_score": "0.090",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_G2_full_noclimate.csv",
+    "sha256": "91bcf97a2d1c26977ef308f1293b901194ef55450737b542a684389bebb3043e",
+    "submission_id": 58007424,
+    "public_score": "0.122",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_M1_noclimate.csv",
+    "sha256": "5e1d9806f69dec75ec1302f5f7e0aabf50736c82efa4de019f45baf208a8e999",
+    "submission_id": 57890637,
+    "public_score": "0.103",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_M2_logratio.csv",
+    "sha256": "f5512033e2106f1c113eb54260038f1b4b368d6d6745fd604073f4847af123ff",
+    "submission_id": 57890610,
+    "public_score": "0.101",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_M3_mlp.csv",
+    "sha256": "cb81a4fef0da2e40a156eab07a7754eb66c88f1a18629944d9615856ace9a782",
+    "submission_id": 57874589,
+    "public_score": "0.125",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_P1_tall_down.csv",
+    "sha256": "9f0fe303f2d8b5339153d1c1c8bdbbe22ea17ce16aab09593202794ec9f3fb99",
+    "submission_id": 57896151,
+    "public_score": "0.076",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_P2_young_up.csv",
+    "sha256": "cb1cb6d678b579262dc63ff00284a30268863b700acb4b3cd9294bdaceb33ff2",
+    "submission_id": 57896204,
+    "public_score": "0.078",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_S1_delta_profile_3373.csv",
+    "sha256": "23216519297719e207970ecd37151181b57cb53d1e23a11499ca33e7b0824aba",
+    "submission_id": 57860559,
+    "public_score": "0.091",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_V6_3_B_restored.csv",
+    "sha256": "81f063d8b43403e9d131bd8b9610ebb9144ab99e73f4e1104723eab2b37f9137",
+    "submission_id": 58007557,
+    "public_score": "0.127",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_V6_4_B_raw.csv",
+    "sha256": "8627d6475ad33c1dc3db23f794a6af37ff3d1d1fd4a0ecb065b361ac98516274",
+    "submission_id": 58007579,
+    "public_score": "0.095",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_V6_5_h_restored_a_raw.csv",
+    "sha256": "a9059153fa5ca99af6232d03d98f8501ad9e564ba3ef4d664ba4b0900f5e2020",
+    "submission_id": 58007779,
+    "public_score": "0.093",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_V6_6_S1type_full.csv",
+    "sha256": "d37ded7dd3bda04a83681eb6ae2a59326188021a36b9ee5755ee1525e5e82513",
+    "submission_id": 58132734,
+    "public_score": "0.090",
+    "status": "SubmissionStatus.COMPLETE"
+  },
+  {
+    "file": "candidate_V6_7_C3_full.csv",
+    "sha256": "cd343a7ff3e422139b04e2d6ddef6098d56b17a76fcd0c2f4c57e61b26293786",
+    "submission_id": 58132761,
+    "public_score": "0.096",
+    "status": "SubmissionStatus.COMPLETE"
+  }
+]

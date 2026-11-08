@@ -1,0 +1,11 @@
+{
+  "official_data_dir": "data/dataset/data_global",
+  "raw_data_dir": "data/kaggle",
+  "sample_submission_path": "data/kaggle/sample_submission.csv",
+  "inputs_dir": "data/inputs",
+  "site_splits": "data/inputs/site_splits.npz",
+  "prepared_inputs_dir": "data/inputs",
+  "output_dir": "outputs",
+  "f2_submission_table": "data/inputs/f2_submission_table.csv",
+  "f2_csvs_dir": "data/inputs/f2_csvs"
+}
